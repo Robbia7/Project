@@ -11,4 +11,8 @@ Then you can launch a AppTest.exe or open the second project and run it.
 On AppTest you have to choose the days and press "Invio Richiesta" button.
 The program show you in the left textbox the input json ( that is send on webservice ) , center text shows you the output json and in the grid there are a date and price convert for user.
 
+## Notes
+The project was created on visual studio 2022. You can open itso on vs2019
+The project WebTest is write on C#, instead AppTest in Vb.Net
+The Framework used is 4.7.2
 
